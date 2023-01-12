@@ -1,19 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=WuWenL0&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WuWenL0&hide_border=true" />
+<p>👋🏼 &nbsp;I'm WuWenL0 </p>
+<p>✨ &nbsp;Java programmer; ✨</p>
 
-<!--
-**WuWenL0/WuWenL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ &nbsp;GitHub Analytics
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WuWenL0&show_icons=true&layout=compact&hide=stars&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenL0&layout=compact&count_private=true&hide=html" /> 
+</div> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WuWenL0.visitor-badge)
