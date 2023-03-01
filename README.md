@@ -13,8 +13,8 @@
 
 ## ⚙️ GitHub Analytics
 <div>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WuWenL0&show_icons=true&layout=compact&hide=stars&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WuWenL0&layout=compact&count_private=true&hide=html" /> 
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bytealan&show_icons=true&layout=compact&hide=stars&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bytealan&layout=compact&count_private=true&hide=html" /> 
 </div> 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WuWenL0.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bytealan.visitor-badge)
